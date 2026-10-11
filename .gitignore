@@ -1,0 +1,7 @@
+node_modules/
+out/
+release/
+*.log
+
+# personal data exports
+about-me*.json
